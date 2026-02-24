@@ -3,9 +3,9 @@
 ## my major is: **COMPUTER ENGINEERING**
 
 I mostly am using this as a way to keep track of my notes across devices
-WIP
+##### WIP
 - WII_U_DONGLE
 - SHRIMPING_IT
 
-DESSERTED 
+##### DESSERTED 
 - project two (porking it made in swing)
