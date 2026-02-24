@@ -8,4 +8,4 @@ WIP
 - SHRIMPING_IT
 
 DESSERTED 
-- project one (porking it made in swing)
+- project two (porking it made in swing)
